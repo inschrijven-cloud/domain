@@ -16,6 +16,10 @@ A child is a participant of the playground.
 
 A crew member is a someone who organises activities and plays with the children. On most playgrounds, crew members are volunteers.
 
+### Contact person
+
+A contact person is a person, usually a parent, that can be contacted in case of emergencies. A child can have multiple contact people, and one person can be the contact person for multiple children.
+
 ### Day
 
 A day is a date on which activities can happen. Days are divided in parts, called shifts.
